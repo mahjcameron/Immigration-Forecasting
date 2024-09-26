@@ -1,5 +1,5 @@
 #EditREADME
-# Intro
+# Thank you for visiting my page
 Welcome to my Immigration, Refugees and Citizenship Canada (IRCC) Forecasting and Dashboard. Where I utilized open source immigration data from the government of Canada to both forecast immigration and built a dashboard to more easily explore the data. Kindly note that Immigration Canada has deemed that countries with 2-5 immigrants have a denomination of 0 in the raw data
 
 ## How to set up files
