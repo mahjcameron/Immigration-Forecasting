@@ -12,7 +12,7 @@ Welcome to my Immigration, Refugees and Citizenship Canada (IRCC) Forecasting an
 
 ## Looking at the data in Tableau
 Please find the links to my Tablea Dashboards below to easily explore the data
-1. https://public.tableau.com/app/profile/cam5684/viz/IRCCGeneralDashboard/GeneralDashboard (General Info Dashboard)
+1. https://public.tableau.com/app/profile/cam5684/viz/IRCCGeneralDashboard/GeneralDashboard (Executive Summary Dashboard w/ link to Map Dashboard)
 
 ## Steps taken to clean the data with only Raw CSV files (Requires Excel 2019)
 1. Go to data tab in excel -> Get Data -> From Folder -> Click on folder storing Raw CSV -> click on Combine + Transform Data (Will automatically open PowerQuery)
