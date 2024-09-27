@@ -4,7 +4,7 @@ Welcome to my Immigration, Refugees and Citizenship Canada (IRCC) Forecasting an
 
 ## How to set up files
 1. To set up files, download the raw csv files (above) or find online at https://open.canada.ca/data/en/dataset/9b34e712-513f-44e9-babf-9df4f7256550 and download into a folder
-2. Either open the ##IRCC Data Forecast## to view my forecasting in an Excel file or ##IRCC Tableau Raw File$$ to find cleaned data for analysis
+2. Either open the ##IRCC Data Forecast## to view my forecasting in an Excel file or ##IRCC Tableau Raw File## to find cleaned data for analysis
 3. Click on the Data Tab -> Get Data -> Data Source Settings -> Change Source and then the folder in whicn you downloaded the raw csv
 4. From there you should have full access to the data
 5. If you want to see how the data was cleaned and formatted to make it easier to read
